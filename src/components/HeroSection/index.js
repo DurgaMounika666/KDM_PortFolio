@@ -1,6 +1,6 @@
 import React from 'react'
 import HeroBgAnimation from '../HeroBgAnimation'
-import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, HeroInnerContainer, TextLoop, Title, Span, SubTitle,SocialMediaIcons,SocialMediaIcon, LinkedInButton } from './HeroStyle'
+import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, HeroInnerContainer, TextLoop, Title, Span, SubTitle, LinkedInButton } from './HeroStyle'
 import HeroImg from '../../images/Mouni.webp.webp'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';

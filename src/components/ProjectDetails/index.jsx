@@ -146,7 +146,7 @@ const MemberName = styled.div`
     }
 `;
 
-
+/*
 const ButtonGroup = styled.div`
     display: flex;
     justify-content: flex-end;
@@ -180,7 +180,7 @@ const Button = styled.a`
         font-size: 12px;
     }
 `;
-
+ */
 
 const index = ({ openModal, setOpenModal }) => {
     const project = openModal?.project;
